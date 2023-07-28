@@ -19,9 +19,7 @@ body {
 /*------------------CONTAINER PRINCIPAL---------------------*/
 #container {
   position: absolute;
-  background-size: contain;
   max-height: 100%;
-  background-repeat: no-repeat;
   display: flex;
   flex-direction: row;
   max-width: 100%;
