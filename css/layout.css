@@ -10,7 +10,9 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
-  padding: 3rem;
+  padding: .5rem;
+  padding-left:2px;
+  margin-bottom:3rem;
   background-color: black;
   background-image: url("https://64.media.tumblr.com/3aced53217ca2134775550c64a3af10a/tumblr_pc7r0uwQbt1xqepp2o1_640.gif");
 }
@@ -27,7 +29,7 @@ body {
 
 
 
-/* -----------------BOTÕES! --------------------------*/
+/* -----------------BOTÃ•ES! --------------------------*/
 #button-container {
   display: flex;
   flex-direction: column;
@@ -42,12 +44,13 @@ body {
 }
 #buttons button {
   outline: none;
-  padding: 12px;
-  font-size: 30px;
+  padding: 5px;
+  font-size: 20px;
+  font-weight:bold;
   border: none;
   background-color: red;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-  border-radius: 8px;
+  box-shadow: 5px 2px 4px rgb(129 0 0 / 96%);
+  border-radius: 100px;
   color: white;
   cursor: pointer;
   text-align: center;
