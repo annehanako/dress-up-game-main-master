@@ -9,7 +9,6 @@
  #sareena {
      background-image: url("https://github.com/annehanako/dress-up-game-main/blob/master/dressup/corpo.png?raw=true");
      max-height: 100%;
-     position: ;
      height:911px;
      width: 664px;
      background-repeat: no-repeat;
@@ -23,6 +22,7 @@
      max-height: 100%;
      background-size: contain;
      max-width: 664px;
+     z-index:3;
  }
  
  .hair1 {
@@ -105,6 +105,7 @@
      max-height: 100%;
      background-size: contain;
      max-width: 664px;
+     z-index:3;
  }
  
  .glove1 {
