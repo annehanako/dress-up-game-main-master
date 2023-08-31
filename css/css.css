@@ -72,6 +72,7 @@
      max-height: 100%;
      background-size: contain;
      max-width: 664px;
+   margin-left:0.4px;
  }
  
  .top1 {
@@ -138,6 +139,8 @@
      max-height: 100%;
      background-size: contain;
      max-width: 664px;
+     margin-left:0.4px;
+
 
  }
  
