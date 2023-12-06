@@ -1,166 +1,163 @@
 @media screen and (max-width: 767px) {
-    #sareena{
-     width: 100%;
-     height: 100%;
-     }
+    #sareena {
+        width: 100%;
+        height: 100%;
     }
- 
- /* ----------------------CAIXA DA SAREENA!----------------------- */
- #sareena {
-     background-image: url("../dressup/corpo.png");
-     max-height: 100%;
-     height:911px;
-     width: 664px;
-     background-repeat: no-repeat;
-     background-size: contain;
- }
- 
- /*------------CALVICE------------*/
- #hairstyles {
-     position: absolute;
-     background-repeat: no-repeat;
-     max-height: 100%;
-     background-size: contain;
-     max-width: 664px;
-     z-index:3;
- }
- 
- .hair1 {
- 
-     width: 664px;
-     height: 180px;
-     left:39px;
-     background-image: url("../dressup/cabelo1.png");
- }
- 
- .hair2 {
-   
-     width: 200px;
-     height: 124px;
-     left:39px;
-     background-image: url("../dressup/cabelo2.png");
- }
- 
- .hair3 {
-    width: 200px;
-     height: 124px;
-     left:39px;
-     background-image: url("../dressup/cabelo3.png");
- 
- }
- 
- .hair4 {
-     width: 320px;
-     height: 175px;
-     left:40px;
-  top:-6px;
-     background-image: url("../dressup/cabelo4.png");
- }
- 
- .hair5 {
-   width: 320px;
-     height: 160px;
-     left:38px;
-    top:-6px;
-     background-image: url("../dressup/cabelo5.png");
- }
- 
- #tops {
-     position: absolute;
-     background-repeat: no-repeat;
-     max-height: 100%;
-     background-size: contain;
-     max-width: 664px;
-   margin-left:0.4px;
- }
- 
- .top1 {
-     background-image: url("../dressup/blusa1.png");
-     width: 150px;
-     height: 569px;
-     left:28px;
-     top:120px;
- 
- }
- 
- .top2 {
-     background-image: url("../dressup/blusa2.png");
-      width: 138px;
-     height: 445px;
-     left:41px;
-     top:119px;
- }
- .top3 {
-     background-image: url("../dressup/blusa3.png");
-      width: 141px;
-     height: 397px;
-     left:40px;
-     top:123px;
- }
- #gloves {
-  position: absolute;
-     background-repeat: no-repeat;
-     max-height: 100%;
-     background-size: contain;
-     max-width: 664px;
-     z-index:3;
- }
- 
- .glove1 {
-     background-image: url("../dressup/luva1.png");
-     width: 240px;
-     height: 100%;
-     top:309px;
-     left:-15px;
- }
- 
- .glove2 {
-     background-image: url("../dressup/luva2.png");
-      width: 213.4px;
-      height: 100%;
-      top:313px;
-      left:-1.px;
- }
- 
- .glove3 {
-     background-image: url("../dressup/luva3.png");
-     width: 224px;
-     height: 100%;
-     top:299px;
-     left:-.9px;
- }
- #bottoms{
+}
+
+/* ----------------------MAIN BOX----------------------- */
+#sareena {
+    background-image: url("../dressup/corpo.png");
+    max-height: 100%;
+    height: 911px;
+    width: 664px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#hairstyles {
     position: absolute;
-     background-repeat: no-repeat;
-     max-height: 100%;
-     background-size: contain;
-     max-width: 664px;
-     margin-left:0.4px;
- }
- 
- .bottom1 {
+    background-repeat: no-repeat;
+    max-height: 100%;
+    background-size: contain;
+    max-width: 664px;
+    z-index: 3;
+}
+
+.hair1 {
+
+    width: 664px;
+    height: 180px;
+    left: 39px;
+    background-image: url("../dressup/cabelo1.png");
+}
+
+.hair2 {
+
+    width: 200px;
+    height: 124px;
+    left: 39px;
+    background-image: url("../dressup/cabelo2.png");
+}
+
+.hair3 {
+    width: 200px;
+    height: 124px;
+    left: 39px;
+    background-image: url("../dressup/cabelo3.png");
+}
+
+.hair4 {
+    width: 320px;
+    height: 175px;
+    left: 40px;
+    top: -6px;
+    background-image: url("../dressup/cabelo4.png");
+}
+
+.hair5 {
+    width: 320px;
+    height: 160px;
+    left: 38px;
+    top: -6px;
+    background-image: url("../dressup/cabelo5.png");
+}
+
+#tops {
+    position: absolute;
+    background-repeat: no-repeat;
+    max-height: 100%;
+    background-size: contain;
+    max-width: 664px;
+    margin-left: 0.4px;
+}
+
+.top1 {
+    background-image: url("../dressup/blusa1.png");
+    width: 150px;
+    height: 569px;
+    left: 28px;
+    top: 120px;
+}
+
+.top2 {
+    background-image: url("../dressup/blusa2.png");
+    width: 138px;
+    height: 445px;
+    left: 41px;
+    top: 119px;
+}
+
+.top3 {
+    background-image: url("../dressup/blusa3.png");
+    width: 141px;
+    height: 397px;
+    left: 40px;
+    top: 123px;
+}
+
+#gloves {
+    position: absolute;
+    background-repeat: no-repeat;
+    max-height: 100%;
+    background-size: contain;
+    max-width: 664px;
+    z-index: 3;
+}
+
+.glove1 {
+    background-image: url("../dressup/luva1.png");
+    width: 240px;
+    height: 100%;
+    top: 309px;
+    left: -15px;
+}
+
+.glove2 {
+    background-image: url("../dressup/luva2.png");
+    width: 213.4px;
+    height: 100%;
+    top: 313px;
+    left: -1.px;
+}
+
+.glove3 {
+    background-image: url("../dressup/luva3.png");
+    width: 224px;
+    height: 100%;
+    top: 299px;
+    left: -.9px;
+}
+
+#bottoms {
+    position: absolute;
+    background-repeat: no-repeat;
+    max-height: 100%;
+    background-size: contain;
+    max-width: 664px;
+    margin-left: 0.4px;
+}
+
+.bottom1 {
     background-image: url("../dressup/saia1.png");
-     width: 664px;
-     height: 580px;
-     top:332px;
-     left:1.5px;
- 
- }
- 
- .bottom2 {
-     background-image: url("../dressup/saia2.png");
-       width: 664px;
-     height: 584px;
-     top:332.5px;
-     left:-1.6px;
- 
- }
- 
- .bottom3 {
-     background-image: url("../dressup/saia3.png");
-      width: 664px;
-     height: 579px;
-     top:331px;
-     left:1.3px;
- 
- }
+    width: 664px;
+    height: 580px;
+    top: 332px;
+    left: 1.5px;
+}
+
+.bottom2 {
+    background-image: url("../dressup/saia2.png");
+    width: 664px;
+    height: 584px;
+    top: 332.5px;
+    left: -1.6px;
+}
+
+.bottom3 {
+    background-image: url("../dressup/saia3.png");
+    width: 664px;
+    height: 579px;
+    top: 331px;
+    left: 1.3px;
+}
