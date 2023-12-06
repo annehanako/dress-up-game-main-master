@@ -2,8 +2,6 @@ var state = {
     d: 0
 };
 function nexthair() {
-    console.log("inside fuction nexthair");
-    console.log(state.d);
     var dress = document.getElementById("hairstyles");
     if (state.d === 0) {
     dress.setAttribute("class", "hair1");
