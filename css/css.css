@@ -7,7 +7,7 @@
  
  /* ----------------------CAIXA DA SAREENA!----------------------- */
  #sareena {
-     background-image: url("https://github.com/annehanako/dress-up-game-main/blob/master/dressup/corpo.png?raw=true");
+     background-image: url("../dressup/corpo.png");
      max-height: 100%;
      height:911px;
      width: 664px;
@@ -30,7 +30,7 @@
      width: 664px;
      height: 180px;
      left:39px;
-     background-image: url("https://github.com/annehanako/dress-up-game-main/blob/master/dressup/cabelo1.png?raw=true");
+     background-image: url("../dressup/cabelo1.png");
  }
  
  .hair2 {
@@ -38,14 +38,14 @@
      width: 200px;
      height: 124px;
      left:39px;
-     background-image: url("https://github.com/annehanako/dress-up-game-main/blob/master/dressup/cabelo2.png?raw=true");
+     background-image: url("../dressup/cabelo2.png");
  }
  
  .hair3 {
     width: 200px;
      height: 124px;
      left:39px;
-     background-image: url("https://github.com/annehanako/dress-up-game-main/blob/master/dressup/cabelo3.png?raw=true");
+     background-image: url("../dressup/cabelo3.png");
  
  }
  
@@ -54,7 +54,7 @@
      height: 175px;
      left:40px;
   top:-6px;
-     background-image: url("https://github.com/annehanako/dress-up-game-main/blob/master/dressup/cabelo4.png?raw=true");
+     background-image: url("../dressup/cabelo4.png");
  }
  
  .hair5 {
@@ -62,10 +62,9 @@
      height: 160px;
      left:38px;
     top:-6px;
-     background-image: url("https://github.com/annehanako/dress-up-game-main/blob/master/dressup/cabelo5.png?raw=true");
+     background-image: url("../dressup/cabelo5.png");
  }
  
- /*--------BLUSINHAS CHIQUES UI UI UI-------------*/
  #tops {
      position: absolute;
      background-repeat: no-repeat;
@@ -76,7 +75,7 @@
  }
  
  .top1 {
-     background-image: url("https://github.com/annehanako/dress-up-game-main/blob/master/dressup/blusa1.png?raw=true");
+     background-image: url("../dressup/blusa1.png");
      width: 150px;
      height: 569px;
      left:28px;
@@ -85,21 +84,19 @@
  }
  
  .top2 {
-     background-image: url("https://github.com/annehanako/dress-up-game-main/blob/master/dressup/blusa2.png?raw=true");
+     background-image: url("../dressup/blusa2.png");
       width: 138px;
      height: 445px;
      left:41px;
      top:119px;
  }
  .top3 {
-     background-image: url("https://github.com/annehanako/dress-up-game-main/blob/master/dressup/blusa3.png?raw=true");
+     background-image: url("../dressup/blusa3.png");
       width: 141px;
      height: 397px;
      left:40px;
      top:123px;
  }
- 
- /*--------LUVAS!!-----------------*/
  #gloves {
   position: absolute;
      background-repeat: no-repeat;
@@ -110,7 +107,7 @@
  }
  
  .glove1 {
-     background-image: url("https://github.com/annehanako/dress-up-game-main/blob/master/dressup/luva1.png?raw=true");
+     background-image: url("../dressup/luva1.png");
      width: 240px;
      height: 100%;
      top:309px;
@@ -118,7 +115,7 @@
  }
  
  .glove2 {
-     background-image: url("https://github.com/annehanako/dress-up-game-main/blob/master/dressup/luva2.png?raw=true");
+     background-image: url("../dressup/luva2.png");
       width: 213.4px;
       height: 100%;
       top:313px;
@@ -126,13 +123,12 @@
  }
  
  .glove3 {
-     background-image: url("https://github.com/annehanako/dress-up-game-main/blob/master/dressup/luva3.png?raw=true");
+     background-image: url("../dressup/luva3.png");
      width: 224px;
      height: 100%;
      top:299px;
      left:-.9px;
  }
- /*----------------SAIAS DA SHEIN----------------------*/
  #bottoms{
     position: absolute;
      background-repeat: no-repeat;
@@ -140,12 +136,10 @@
      background-size: contain;
      max-width: 664px;
      margin-left:0.4px;
-
-
  }
  
  .bottom1 {
-     background-image: url("https://github.com/annehanako/dress-up-game-main/blob/master/dressup/saia1.png?raw=true");
+    background-image: url("../dressup/saia1.png");
      width: 664px;
      height: 580px;
      top:332px;
@@ -154,7 +148,7 @@
  }
  
  .bottom2 {
-     background-image: url("https://github.com/annehanako/dress-up-game-main/blob/master/dressup/saia2.png?raw=true");
+     background-image: url("../dressup/saia2.png");
        width: 664px;
      height: 584px;
      top:332.5px;
@@ -163,7 +157,7 @@
  }
  
  .bottom3 {
-     background-image: url("https://github.com/annehanako/dress-up-game-main/blob/master/dressup/saia3.png?raw=true");
+     background-image: url("../dressup/saia3.png");
       width: 664px;
      height: 579px;
      top:331px;
